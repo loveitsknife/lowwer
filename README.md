@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @loveitsknife
-- 👀 I’m interested in security information
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me slavyaninborovisnkiy@gmail.com
+- 👋 Hi, I’m @loveitsknife.
+- 👀 I am interested in information security and elements regarding its. 
+- 🌱 Currently, I am studying in one of the best IT universities Beograd.
+- 💞️ I prefer to work on information security.
+- 📫 How to reach me ... please wait 👀👀👀
 
 <!---
 loveitsknife/loveitsknife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
